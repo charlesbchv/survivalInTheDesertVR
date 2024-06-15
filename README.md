@@ -1,7 +1,9 @@
 # VR Survival in the Desert
 
 <p align="center">
-  <img src="Ressources/illustration_of_our_game.png">
+  <a href="https://youtu.be/xK0r4h6ihH8">
+    <img src="Ressources/illustration_of_our_game.png" alt="Regarder sur YouTube">
+  </a>
 </p>
 <p align="center"> 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/survivalInTheDesertVR?style=plastic&color=blue">
@@ -17,7 +19,6 @@
 ## Introduction
 
 **VR Survival in the Desert** est un projet de jeu en réalité virtuelle développé par Steeve Rabehanta, Charles Batchaev, et Ait Taouit Yanis sous la supervision de M. Badr Tajini à ESIEE Paris pour l'année académique 2023-2024. Ce jeu combine exploration, survie et interactivité dans un environnement de désert virtuel.
-
 
 ## Installation
 
