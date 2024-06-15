@@ -59,4 +59,4 @@ Nous tenons à remercier M. Badr Tajini pour son encadrement tout au long du pro
 
 ## Licence
 
-Ce projet est sous licence XYZ. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
